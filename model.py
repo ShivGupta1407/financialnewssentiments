@@ -1,0 +1,1 @@
+print("MY model starts from here this is my repo for the model for the project of financial news s4ntiment analysis")
